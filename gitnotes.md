@@ -21,3 +21,11 @@ These are my notes on the Git.
 
 ###i am making more changes
 
+
+hello again.
+
+this is another change.
+
+
+
+
