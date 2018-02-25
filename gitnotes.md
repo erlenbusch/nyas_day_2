@@ -14,3 +14,10 @@ These are my notes on the Git.
 
 ### I am making my second commit
 
+
+###let's try some more changes
+
+### this is my third commit
+
+###i am making more changes
+
